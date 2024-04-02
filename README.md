@@ -1,4 +1,7 @@
 # Metacrafters-Avalance-Advanced1
+
+I have created my own local subnet with ChainID 9999 and Token Symbol ARH. I have used the template provided by Metacrafters and this contract has been deployed to that subnet.
+
 ## Installation
 
 ### Compatibility
@@ -38,6 +41,10 @@ Shut down your local deployment with:
 ```bash
 avalanche network stop
 ```
+we will get RPCURL, ChainID, Token Symbol and private key in our terminal after deploying the subnet.
+
+Hence, we will use this information to add a network in Metamask and import test tokens using the private key
+
 ## Authors
 
 * Advik Holalu- advikholalu@gmail.com
